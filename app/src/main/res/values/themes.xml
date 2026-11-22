@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TP13" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary & Accent Colors -->
+        <item name="colorPrimary">@color/accent_lavender</item>
+        <item name="colorOnPrimary">@color/text_on_lavender</item>
+        <item name="colorContainer">@color/card_surface</item>
+        <item name="colorOnContainer">@color/text_primary</item>
+
+        <!-- Window background & System bar styling -->
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.TP13" parent="Base.Theme.TP13" />
+</resources>

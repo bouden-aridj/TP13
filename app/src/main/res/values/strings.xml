@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Campus Guide</string>
+    <string name="header_title">Sidi Amar Campus</string>
+    <string name="header_subtitle">Interactive Guide &amp; Geolocation</string>
+
+    <string name="destination_prompt">Select a campus location to view details &amp; calculate distance</string>
+    <string name="btn_recenter">My Location</string>
+    <string name="btn_draw_line">Draw Route</string>
+    <string name="btn_clear_line">Clear Route</string>
+    <string name="btn_navigate">Navigate</string>
+
+    <string name="permission_required_title">Location Permission Required</string>
+    <string name="permission_required_msg">Location permission is required to display your current location and calculate distances.</string>
+    <string name="permission_grant_btn">Grant Permission</string>
+    <string name="gps_disabled_warning">GPS is currently disabled. Enable location services for user tracking.</string>
+    <string name="location_unavailable">Waiting for current GPS location&#8230;</string>
+    <string name="distance_format">Distance: %s</string>
+
+    <!-- Location Categories -->
+    <string name="cat_admin">Administration</string>
+    <string name="cat_library">Library</string>
+    <string name="cat_dept">Department</string>
+    <string name="cat_restaurant">Restaurant</string>
+    <string name="cat_hall">Lecture Hall</string>
+</resources>

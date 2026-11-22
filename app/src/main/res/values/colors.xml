@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Lavender Palette (TP10, TP11, TP12 style) -->
+    <color name="bg_dark">#121116</color>
+    <color name="card_surface">#1D1B20</color>
+    <color name="card_surface_variant">#2B2830</color>
+    <color name="card_stroke">#36343B</color>
+    <color name="accent_lavender">#D0B5FF</color>
+    <color name="accent_lavender_variant">#9A82DB</color>
+    <color name="text_primary">#E5E1EC</color>
+    <color name="text_secondary">#CAC4D0</color>
+    <color name="text_on_lavender">#381E72</color>
+    <color name="chip_selected_bg">#382956</color>
+    <color name="chip_unselected_bg">#25232A</color>
+    <color name="polyline_color">#D0B5FF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
